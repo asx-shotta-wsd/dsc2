@@ -1,0 +1,11 @@
+Model Information:
+* title:	Reserved Shoe Sneakers 3D Scan
+* source:	https://sketchfab.com/3d-models/reserved-shoe-sneakers-3d-scan-0316f0e13aba46e5a61e468397a07ab2
+* author:	grafi (https://sketchfab.com/zdenkoroman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Reserved Shoe Sneakers 3D Scan" (https://sketchfab.com/3d-models/reserved-shoe-sneakers-3d-scan-0316f0e13aba46e5a61e468397a07ab2) by grafi (https://sketchfab.com/zdenkoroman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
